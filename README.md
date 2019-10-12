@@ -10,7 +10,7 @@ Grab repo: `git clone git@github.com:sarcoma/Graph-Editor-Backend.git`
 
 Run docker compose: `docker-compose up --build`
 
-*Initialise the DB* 
+### Initialise the DB
 
 In the root of the API project run: `docker-compose exec web bash` to access the docker container.
 
